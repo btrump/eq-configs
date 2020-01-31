@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SRC="Saeid"
+SRC="Yiqv"
 SERVER="test"
 CHARS=("Assel" "Cepi" "Beiye" "Ovvw" "Qaol" "Pusha" "Adverb" "Nmqi" "Vruq" "Sophomore" "Kcnalb")
 for char in "${CHARS[@]}"; do
